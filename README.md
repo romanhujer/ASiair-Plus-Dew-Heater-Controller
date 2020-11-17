@@ -1,4 +1,4 @@
-# Estension board for ASiair Plus (Dew Heater Controller and Power Hub)
+# Estension board for ASiair Plus Dew Heater Controller and Power Hub
 
 Dew Heater Controller and Power Hub fextension board for ASiair
 
