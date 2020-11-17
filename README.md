@@ -1,7 +1,6 @@
-# ASiair Plus (Dew Heater Controller and Power Hub)
+# Estension board for ASiair Plus (Dew Heater Controller and Power Hub)
 
-
-ASiair (1.0) add  Dew Heater Controller and Power Hub
+Dew Heater Controller and Power Hub fextension board for ASiair
 
 My extension PCB  on  [EasyEDA](https://easyeda.com/hujer.roman/asiair-1-0-extension)
 
